@@ -1,5 +1,5 @@
 # Cosmic-Crusader
-Platformer videogame set in space
+Platformer videogame set in space. In order to play, open the 'code' folder (not the entire repository) and run the main file.
 
 START:
 The start page will run the game once you press the icon.
